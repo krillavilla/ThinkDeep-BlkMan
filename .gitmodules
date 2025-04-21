@@ -1,0 +1,12 @@
+[submodule "Digits-Classifier-with-PyTorch"]
+	path = Digits-Classifier-with-PyTorch
+	url = https://github.com/krillavilla/Digits-Classifier-with-PyTorch.git
+[submodule "Landmark-Classification-Tagging-for-Social-Media"]
+	path = Landmark-Classification-Tagging-for-Social-Media
+	url = https://github.com/krillavilla/Landmark-Classification-Tagging-for-Social-Media.git
+[submodule "Text-Translation-and-Sentiment-Analysis"]
+	path = Text-Translation-and-Sentiment-Analysis
+	url = https://github.com/krillavilla/Text-Translation-and-Sentiment-Analysis.git
+[submodule "Face-Generation"]
+	path = Face-Generation
+	url = https://github.com/krillavilla/Face-Generation.git
